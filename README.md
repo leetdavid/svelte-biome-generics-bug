@@ -1,6 +1,6 @@
 # svelte-biome-generics-bug
 
-This is a minimal reproduction of a bug in Biome, where using `generics` in `<script>` causes the content in script to not be recognized as Typescript.
+This is a minimal reproduction of a bug in Biome for Svelte, where using `generics` in `<script>` causes the content in script to not be recognized as Typescript.
 
 ### Linting Error
 
